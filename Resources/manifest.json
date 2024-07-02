@@ -1,0 +1,15 @@
+{
+    "title":"Mega Man Mod",
+    "author":"Beanalby",
+    "description":"What's \"Copyright\" mean, again?",
+    "namespace":"BeanMod",
+    "dll":"BeanMod.dll",
+    "version":"0.1",
+    "color":"669dfe",
+    "credits": ["Nef, Nyxie, and Kirby"],
+    "decks":{
+        "heroes":[
+           "MegaMan"
+        ]
+    }
+  }

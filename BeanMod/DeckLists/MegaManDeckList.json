@@ -1,0 +1,54 @@
+﻿{
+  "name": "Mega Man",
+  "kind": "Hero",
+  "initialCardIdentifiers": [
+    "MegaManCharacter"
+  ],
+  "cards": [
+    {
+      "identifier": "MegaManCharacter",
+      "count": 1,
+      "title": "Mega Man",
+      "body": "Dr. Wily! Why are you here!?",
+      "backgroundColor": "fbf8f9",
+      "foilBackgroundColor": "FEFEFE",
+      "hitpointsColor": "C94742",
+      "character": true,
+      "powers": [
+        "Draw 1 card. {MegaMan} deals 1 target 2 Psychic damage."
+      ],
+      "icons": [
+        "HasPower",
+        "DrawCardNow",
+        "DealDamagePsychic"
+      ],
+      "hitpoints": 30,
+      "incapacitatedAbilities": [
+        "One player may play a card.",
+        "One hero may use a power.",
+        "One player may draw a card."
+      ],
+      "flippedIcons": [
+        "PlayCardNow",
+        "UsePowerNow",
+        "DrawCardNow"
+      ],
+      "openingLines": {
+        "default": "Why must I fight you? We're not enemies!"
+      },
+      "complexity": 1
+    },
+    {
+      "identifier": "WorstCardEver",
+      "count": 30,
+      "title": "Worst... Card... Ever.",
+      "keywords": [
+        "one-shot"
+      ],
+      "body": "Nothing happens.",
+      "icons": [
+      ],
+      "flavorText": "Ugh."
+    }
+  ]
+}
