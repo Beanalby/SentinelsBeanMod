@@ -39,8 +39,21 @@
       "complexity": 1
     },
     {
+      "identifier": "PewPew",
+      "count": 29,
+      "title": "Pew Pew",
+      "keywords": [
+        "one-shot"
+      ],
+      "body": "{MegaMan} deals 1 target 2 Projectile damage.",
+      "icons": [
+        "DealDamageProjectile"
+      ],
+      "flavorText": "PEW PEW PEW PEW!"
+    },
+    {
       "identifier": "WorstCardEver",
-      "count": 30,
+      "count": 1,
       "title": "Worst... Card... Ever.",
       "keywords": [
         "one-shot"

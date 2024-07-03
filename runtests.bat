@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe" ModTest\ModTest.csproj --framework=net-4.8 --config=%1

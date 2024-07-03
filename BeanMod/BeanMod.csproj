@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MegaMan\MegaManCharacterCardController.cs" />
+    <Compile Include="MegaMan\PewPewCardController.cs" />
     <Compile Include="MegaMan\WorstCardEverCardController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
